@@ -1,2 +1,4 @@
 # ComputerGraphics
-this our repository for Computer GGGraphics boyzzz
+this our repository for Computer Graphics
+
+![](ApplicationLogo.jpg) 
