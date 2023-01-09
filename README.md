@@ -1,3 +1,3 @@
 # ComputerGraphics - MyPoligono
 
-<img src="https://media.githubusercontent.com/media/matteomaraziti/ComputerGraphics/main/ApplicationLogo.jpg" width="250" height="250">
+<img src="https://github.com/matteomaraziti/ComputerGraphics/blob/main/ApplicationLogo.jpg" width="250" height="250">
